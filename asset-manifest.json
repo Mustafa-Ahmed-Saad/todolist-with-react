@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/todolist-react-app/static/css/main.999e75cc.chunk.css",
-    "main.js": "/todolist-react-app/static/js/main.c4c3058a.chunk.js",
-    "main.js.map": "/todolist-react-app/static/js/main.c4c3058a.chunk.js.map",
-    "runtime-main.js": "/todolist-react-app/static/js/runtime-main.b6c7d571.js",
-    "runtime-main.js.map": "/todolist-react-app/static/js/runtime-main.b6c7d571.js.map",
-    "static/js/2.fd1c19f2.chunk.js": "/todolist-react-app/static/js/2.fd1c19f2.chunk.js",
-    "static/js/2.fd1c19f2.chunk.js.map": "/todolist-react-app/static/js/2.fd1c19f2.chunk.js.map",
-    "static/js/3.88a1c3b8.chunk.js": "/todolist-react-app/static/js/3.88a1c3b8.chunk.js",
-    "static/js/3.88a1c3b8.chunk.js.map": "/todolist-react-app/static/js/3.88a1c3b8.chunk.js.map",
-    "index.html": "/todolist-react-app/index.html",
-    "static/css/main.999e75cc.chunk.css.map": "/todolist-react-app/static/css/main.999e75cc.chunk.css.map",
-    "static/js/2.fd1c19f2.chunk.js.LICENSE.txt": "/todolist-react-app/static/js/2.fd1c19f2.chunk.js.LICENSE.txt"
+    "main.css": "/todolist-with-react/static/css/main.999e75cc.chunk.css",
+    "main.js": "/todolist-with-react/static/js/main.c4c3058a.chunk.js",
+    "main.js.map": "/todolist-with-react/static/js/main.c4c3058a.chunk.js.map",
+    "runtime-main.js": "/todolist-with-react/static/js/runtime-main.ea58e987.js",
+    "runtime-main.js.map": "/todolist-with-react/static/js/runtime-main.ea58e987.js.map",
+    "static/js/2.fd1c19f2.chunk.js": "/todolist-with-react/static/js/2.fd1c19f2.chunk.js",
+    "static/js/2.fd1c19f2.chunk.js.map": "/todolist-with-react/static/js/2.fd1c19f2.chunk.js.map",
+    "static/js/3.88a1c3b8.chunk.js": "/todolist-with-react/static/js/3.88a1c3b8.chunk.js",
+    "static/js/3.88a1c3b8.chunk.js.map": "/todolist-with-react/static/js/3.88a1c3b8.chunk.js.map",
+    "index.html": "/todolist-with-react/index.html",
+    "static/css/main.999e75cc.chunk.css.map": "/todolist-with-react/static/css/main.999e75cc.chunk.css.map",
+    "static/js/2.fd1c19f2.chunk.js.LICENSE.txt": "/todolist-with-react/static/js/2.fd1c19f2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6c7d571.js",
+    "static/js/runtime-main.ea58e987.js",
     "static/js/2.fd1c19f2.chunk.js",
     "static/css/main.999e75cc.chunk.css",
     "static/js/main.c4c3058a.chunk.js"
